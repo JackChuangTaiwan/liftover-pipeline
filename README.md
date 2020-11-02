@@ -8,10 +8,12 @@
  * Jupiter notebook docker版本有token問題我不會解
  * picard tool是Java基礎，編譯後可跨平台
  
- 在這次pipeline中可以自動下載fasta 及 liftover 檔案及 picard
+在這次pipeline中可以自動下載fasta 及 liftover 檔案及 picard
  
- 稍做修正就可以服務其他版本轉換
+稍做修正就可以服務其他版本轉換
  
- 此外加入選擇檔案的功能，讓使用者可以不必手動key檔名
+此外加入選擇檔案的功能，讓使用者可以不必手動key檔名
  
- 搜尋資料夾中vcf功能可以批次處理資料夾中的VCF檔案
+搜尋資料夾中vcf功能可以批次處理資料夾中的VCF檔案
+
+建議規格: 8Gb RAM
